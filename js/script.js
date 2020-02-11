@@ -1,5 +1,5 @@
 //Starting our blackjack app
-//  by Teresia Kirung'o
+//  by Terri Kirung'o
 
 //variables
 let card1 = "Ace of Spades",
